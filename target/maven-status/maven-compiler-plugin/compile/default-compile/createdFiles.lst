@@ -1,0 +1,4 @@
+com/tinker/example/dropwizard/hello/HelloResource.class
+com/tinker/example/dropwizard/config/MessagesConfiguration.class
+com/tinker/example/dropwizard/ExampleService.class
+com/tinker/example/dropwizard/config/ExampleServiceConfiguration.class
