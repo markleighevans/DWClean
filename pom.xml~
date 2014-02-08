@@ -32,7 +32,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>eu.kielczewski.example.dropwizard.ExampleService</mainClass>
+                    <mainClass>com.tinker.example.dropwizard.ExampleService</mainClass>
                     <arguments>
                         <argument>server</argument>
                         <argument>configuration.yml</argument>

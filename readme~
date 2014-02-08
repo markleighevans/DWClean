@@ -1,0 +1,5 @@
+Can be executed via: mvn compile exec:java
+Service is exposed via http://localhost:8080/hello
+
+Code based upon http://kielczewski.eu/2013/04/developing-restful-web-services-using-dropwizard/
+
