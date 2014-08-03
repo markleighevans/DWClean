@@ -10,6 +10,7 @@ public class ExampleService extends Service<ExampleServiceConfiguration> {
 
     public static void main(String[] args) throws Exception {
         new ExampleService().run(args);
+
     }
 
     @Override
@@ -20,6 +21,7 @@ public class ExampleService extends Service<ExampleServiceConfiguration> {
     @Override
     public void run(ExampleServiceConfiguration conf, Environment env) throws Exception {
         env.addResource(new HelloResource(conf.getMessages()));
+
     }
 
 }

@@ -1,2 +1,3 @@
 messages:
-  hello: Hello Cone Heads!
+  hello: Hello World!
+  tinkerMessage: parameter passed via configuration.yml
